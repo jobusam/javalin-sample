@@ -1,8 +1,8 @@
 # Omit temporary files
-build
-out
-.gradle
-.idea
+/build/
+/out/
+/.gradle/
+/.idea/
 *.iml
 
 # Omit generated certificates
