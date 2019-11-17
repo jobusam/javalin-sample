@@ -1,0 +1,7 @@
+# Omit temporary files
+.idea
+.gradle
+build
+
+# Omit generated certificates
+resources/*
